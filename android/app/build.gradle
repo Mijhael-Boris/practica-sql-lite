@@ -23,6 +23,7 @@ if (flutterVersionName == null) {
 }
 
 android {
+    namespace "com.example.practica_sensores_y_sql_lite"  // 👈 AGREGADA
     compileSdk 34
     ndkVersion "25.1.8937393"
 
